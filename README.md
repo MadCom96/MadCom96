@@ -5,6 +5,7 @@
   - [백준, 프로그래머스](https://github.com/MadCom96/Study/tree/main/algorithm_problems)
   - [알고리즘 스터디](https://github.com/MadCom96/Study/tree/main/algorithm_study)
   - [싸피 알고리즘 스터디](https://github.com/MadCom96/algorithm_ssafy)
+  - [싸피 모던 자바 인 액션 스터디](https://github.com/MadCom96/modern-java-in-action)
 - [자바 수업 과제](https://github.com/MadCom96/PlatformBasedProgramming-JAVA)
 - [swift](https://github.com/MadCom96/with_Swift)
 - [소프트웨어공학-옴니노트](https://github.com/MadCom96/Omni-Notes)
