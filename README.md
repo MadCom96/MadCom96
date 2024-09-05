@@ -11,7 +11,7 @@
     - [소규모 팀 알고리즘 스터디](https://github.com/PragmaticArchive/Algorithm)
   - [부트캠프 모던 자바 인 액션 스터디](https://github.com/MadCom96/modern-java-in-action)
 - [자바 수업 과제](https://github.com/MadCom96/PlatformBasedProgramming-JAVA)
-- [swift](https://github.com/MadCom96/with_Swift)
+- [swift ios 스터디](https://github.com/MadCom96/with_Swift)
 - [소프트웨어공학-옴니노트](https://github.com/MadCom96/Omni-Notes)
 - [졸업과제](https://github.com/P-Chain/public_interest_activities_NFT_issuance)
 <!--
