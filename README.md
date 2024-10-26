@@ -2,7 +2,9 @@
 
 ### 바로가기 링크
 - 부트캠프
-  - [중고책 거래 플랫폼 - 북극성](https://github.com/SSAFY-A801/POLARIS)
+  - [중고책 거래 플랫폼 - 북극성](https://github.com/MadCom96/POLARIS)
+  - [해외여행 금융 관리 앱 - Trip Together](https://github.com/MadCom96/Trip-Together)
+  - [자세추정 AI 춤 피드백 앱 - Step To Dance](https://github.com/MadCom96/StepToDance)
 - [코드를 통한 공부들](https://github.com/MadCom96/Study/tree/main)
   - [백준, 프로그래머스](https://github.com/MadCom96/Study/tree/main/algorithm_problems)
   - 알고리즘 스터디
