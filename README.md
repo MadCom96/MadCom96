@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 바로가기 링크
-- 부트캠프
+- SPRING 프로젝트
   - [중고책 거래 플랫폼 - 북극성](https://github.com/MadCom96/POLARIS)
   - [해외여행 금융 관리 앱 - Trip Together](https://github.com/MadCom96/Trip-Together)
   - [자세추정 AI 춤 피드백 앱 - Step To Dance](https://github.com/MadCom96/StepToDance)
