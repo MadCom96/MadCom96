@@ -16,6 +16,9 @@
 - [swift ios 스터디](https://github.com/MadCom96/with_Swift)
 - [소프트웨어공학-옴니노트](https://github.com/MadCom96/Omni-Notes)
 - [졸업과제](https://github.com/P-Chain/public_interest_activities_NFT_issuance)
+
+---
+블로그 : [https://mango-note.pages.dev/](https://mango-note.pages.dev/)
 <!--
 **MadCom96/MadCom96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
